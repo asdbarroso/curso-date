@@ -7,7 +7,6 @@ import java.util.TimeZone;
 public class Aplicativo {
 
 	public static void main(String[] args) throws ParseException {
-		// TODO Auto-generated method stub
 
 		SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yyyy");
 		SimpleDateFormat sdf2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
